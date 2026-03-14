@@ -1,0 +1,14 @@
+// Import Core Clean Blog SCSS
+@import "../assets/vendor/startbootstrap-clean-blog/scss/styles.scss";
+
+// Override default theme in here
+
+img {
+    max-width: 100%;
+}
+
+img.smaller {
+    max-width: 50%;
+    display: block;
+    margin: auto;
+}
