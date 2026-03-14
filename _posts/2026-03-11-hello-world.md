@@ -25,7 +25,7 @@ Easy peasy, just want something visible now
 #### Second Noodle: Visuals
 I threw a RichTextLabel and Sprite in the viewport and confirmed in the editor player that I can see output. Good enough for me.
 
-![Image](/assets/img/hello_world/game_output.png){: .smaller}
+![Image]({{site.baseurl}}/assets/img/hello_world/game_output.png){: .smaller}
 
 This is a breeze! Nothing could possibly slow us down now that we're on the last step!
 
@@ -83,4 +83,4 @@ Hop back into XCode, build to the device, and BINGPOT, we're in.
 
 I admittedly still can't compile to the simulator, but my iphone is a beautiful grey piece of art
 
-![Image](/assets/img/hello_world/ios_app.png){: .smaller}
+![Image]({{site.baseurl}}/assets/img/hello_world/ios_app.png){: .smaller}
