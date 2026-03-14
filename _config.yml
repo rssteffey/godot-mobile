@@ -8,7 +8,7 @@ title: Waiting for Shawn to Learn Godot
 email: rssteffey@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a blog about creating a mobile game in Godot 4.6
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/godot-mobile" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  rssteffey
 
